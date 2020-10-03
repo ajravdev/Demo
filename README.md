@@ -6,3 +6,5 @@ Some edits
 Some more edits
 
 This is bound to cause trouble
+
+Update for the stash
