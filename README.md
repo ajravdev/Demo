@@ -2,3 +2,7 @@
 
 This is a simple readme file.
 Some edits
+
+Some more edits
+
+Adding updates to a new branch
